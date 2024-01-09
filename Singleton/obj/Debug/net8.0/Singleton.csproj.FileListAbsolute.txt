@@ -1,0 +1,15 @@
+D:\Development\.NET\CreationDesignPatterns\Singleton\bin\Debug\net8.0\Singleton.exe
+D:\Development\.NET\CreationDesignPatterns\Singleton\bin\Debug\net8.0\Singleton.deps.json
+D:\Development\.NET\CreationDesignPatterns\Singleton\bin\Debug\net8.0\Singleton.runtimeconfig.json
+D:\Development\.NET\CreationDesignPatterns\Singleton\bin\Debug\net8.0\Singleton.dll
+D:\Development\.NET\CreationDesignPatterns\Singleton\bin\Debug\net8.0\Singleton.pdb
+D:\Development\.NET\CreationDesignPatterns\Singleton\obj\Debug\net8.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\.NET\CreationDesignPatterns\Singleton\obj\Debug\net8.0\Singleton.AssemblyInfoInputs.cache
+D:\Development\.NET\CreationDesignPatterns\Singleton\obj\Debug\net8.0\Singleton.AssemblyInfo.cs
+D:\Development\.NET\CreationDesignPatterns\Singleton\obj\Debug\net8.0\Singleton.csproj.CoreCompileInputs.cache
+D:\Development\.NET\CreationDesignPatterns\Singleton\obj\Debug\net8.0\Singleton.sourcelink.json
+D:\Development\.NET\CreationDesignPatterns\Singleton\obj\Debug\net8.0\Singleton.dll
+D:\Development\.NET\CreationDesignPatterns\Singleton\obj\Debug\net8.0\refint\Singleton.dll
+D:\Development\.NET\CreationDesignPatterns\Singleton\obj\Debug\net8.0\Singleton.pdb
+D:\Development\.NET\CreationDesignPatterns\Singleton\obj\Debug\net8.0\Singleton.genruntimeconfig.cache
+D:\Development\.NET\CreationDesignPatterns\Singleton\obj\Debug\net8.0\ref\Singleton.dll
